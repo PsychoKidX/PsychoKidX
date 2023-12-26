@@ -11,7 +11,7 @@ I am a beginner C++ developer, currently studying Data Structures and Algorithms
 </p>
 
 * 🌍  I'm based in Ukraine
-* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">  You can contact me at [Telegram](https://t.me/woshetitelniy)
+* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">  You can contact me at [vags2154@gmail.com](mailto:vags2154@gmail.com)
 * 🧠  I'm learning Data Structures
   
 ---
