@@ -6,6 +6,10 @@ Hi! My name is Artur
 
 I am a beginner C++ developer, currently studying Data Structures and Algorithms. I also study Computer Science. Interested in expanding contacts with other developers.
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [vags2154@gmail.com](mailto:vags2154@gmail.com)
 * 🧠  I'm learning Data Structures
