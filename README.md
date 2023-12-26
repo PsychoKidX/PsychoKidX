@@ -33,6 +33,10 @@ I am a beginner C++ developer, currently studying Data Structures and Algorithms
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/PsychoKidX"><img src="https://github-readme-stats.vercel.app/api?username=PsychoKidX&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="PsychoKidX's GitHub stats" /></a>
+<div align="center">
+  <b>My GitHub Stats</b>
+  <br />
+  <a href="http://www.github.com/PsychoKidX">
+    <img src="https://github-readme-stats.vercel.app/api?username=PsychoKidX&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="PsychoKidX's GitHub stats" />
+  </a>
+</div>
