@@ -20,5 +20,3 @@ I am a beginner C++ developer, currently studying Data Structures and Algorithms
 ### Skills:
 
 C, C++, CMake, SQL, Windows, Linux
-
----
