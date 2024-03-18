@@ -19,4 +19,4 @@ I am C++ developer, currently studying Data Structures and Algorithms. I also st
 
 ### Skills:
 
-Linux, C, C++, CMake, SQL
+Linux, C, C++, Qt, CMake, SQL, SQLite3, Docker
