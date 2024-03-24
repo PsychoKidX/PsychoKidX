@@ -2,10 +2,6 @@
 
 ---
 
-### :man_technologist: About me:
-
-I am C++ developer, currently studying Data Structures and Algorithms. I also study Computer Science. Interested in expanding contacts with other developers.
-
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
