@@ -11,4 +11,4 @@
 
 ### Skills:
 
-Linux, C, C++, Qt, CMake, SQL, SQLite3, Docker
+Linux, C, C++, Qt, CMake, Make, SQL, MySQL, SQLite3, Docker, Jira
